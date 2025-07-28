@@ -25,11 +25,11 @@ author:
   avatar           : "photo.jpg"
   name             : "Chenwei Liang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : 
+  location         : "Germany"
+  employer         : 
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chenwei_liang@outlook.com" 
 
   # Academic websites
   academia         : # URL
