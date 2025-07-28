@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: 
 excerpt: ''
-date: 2023
+date: 2023-08-20
 venue: 'Interspeech'
 paperurl: 'https://www.isca-archive.org/interspeech_2023/li23k_interspeech.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
