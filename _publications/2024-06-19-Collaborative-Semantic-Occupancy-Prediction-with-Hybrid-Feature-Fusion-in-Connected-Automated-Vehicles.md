@@ -3,7 +3,7 @@ title: "Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion i
 collection: publications
 category: conferences
 permalink: 
-excerpt: 'Rui Song, Chenwei Liang, Hu Cao, Zhiran Yan, Walter Zimmer, Markus Gross, Andreas Festag, Alois Knoll'
+excerpt: 'Rui Song, **Chenwei Liang**, Hu Cao, Zhiran Yan, Walter Zimmer, Markus Gross, Andreas Festag, Alois Knoll'
 date: 2024-06-19
 venue: 'CVPR'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Song_Collaborative_Semantic_Occupancy_Prediction_with_Hybrid_Feature_Fusion_in_Connected_CVPR_2024_paper.pdf'
