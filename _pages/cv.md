@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Electrical Engineering, [Technical University of Braunschweig](https://www.tu-braunschweig.de/en/), 2023
-* B.S. in Electrical Engineering, [University of Shanghai for Science and Technology](https://en.usst.edu.cn/)&[Hamburg University of Applied Sciences](https://www.haw-hamburg.de/en/), 2019
+* B.S. in Electrical Engineering, [University of Shanghai for Science and Technology](https://en.usst.edu.cn/) & [Hamburg University of Applied Sciences](https://www.haw-hamburg.de/en/), 2019
 
 Work experience
 ======
