@@ -40,3 +40,34 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+.publication-layout {
+  display: flex; /* 启用 Flexbox 布局 */
+  align-items: flex-start; /* 顶部对齐 */
+  gap: 1.5em; /* 设置左右两栏之间的间距 */
+}
+
+.publication-image {
+  flex: 0 0 180px; /* 设置左栏（图片）宽度为 180px，不拉伸也不收缩 */
+}
+
+.publication-image img {
+  width: 100%; /* 图片宽度充满其容器 */
+  height: auto; /* 高度自动，保持比例 */
+  border-radius: 7px; /* 给图片加个圆角，更好看 */
+}
+
+.publication-details {
+  flex: 1; /* 右栏（文本）占据所有剩余空间 */
+}
+
+/* 在小屏幕上（如手机），取消两栏布局，让图片显示在文本上方 */
+@media screen and (max-width: 767px) {
+  .publication-layout {
+    flex-direction: column; /* 改为垂直堆叠 */
+  }
+
+  .publication-image {
+    flex-basis: auto; /* 宽度自适应 */
+    margin-bottom: 1em; /* 在图片下方增加一些间距 */
+  }
+}
