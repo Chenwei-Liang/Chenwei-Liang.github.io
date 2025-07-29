@@ -41,9 +41,9 @@
     "vendor/font-awesome/brands"
 ;
 .publication-layout {
-  display: flex; /* 启用 Flexbox 布局 */
-  align-items: flex-start; /* 顶部对齐 */
-  gap: 1.5em; /* 设置左右两栏之间的间距 */
+  display: flex;
+  align-items: center; /* 将 'flex-start' 修改为 'center' */
+  gap: 1.5em;
 }
 
 .publication-image {
