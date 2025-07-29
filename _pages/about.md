@@ -14,6 +14,10 @@ Previously, I was a research assistant working with [Rui Song](https://rruisong.
 
 <span style="color:red"> I am currently seeking a fully funded PhD or Research Assistant position in the fields of computer vision, machine perception or multimodal learning. </span>
 
+---
+
+## Publications
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
