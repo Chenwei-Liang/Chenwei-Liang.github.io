@@ -59,8 +59,7 @@
           <br>Recommended citation: {{ post.citation }}
           </p>
         {% elsif post.paperurl %}
-            <p>
-              <a href="{{ post.paperurl }}" class="btn btn--research">Paper</a>
+            <p><a href="{{ post.paperurl }}" class="btn btn--research">Paper</a>
               {% if post.slidesurl %}<a href="{{ post.slidesurl }}" class="btn btn--research">Project Page</a>{% endif %}
             </p>
         {% endif %}
