@@ -16,7 +16,7 @@ Previously, I was a research assistant working with [Rui Song](https://rruisong.
 
 ---
 
-## Publications
+## Selected Publications
 
 {% include base_path %}
 
