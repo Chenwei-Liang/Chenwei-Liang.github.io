@@ -3,7 +3,7 @@ title: "An Efficient and Noise-Robust Audiovisual Encoder for Audiovisual Speech
 collection: publications
 category: conferences
 permalink: 
-excerpt: 'Zhengyang Li, **Chenwei Liang**, Timo Lohrenz, Marvin Sach, Björn Möller, Tim Fingscheidt'
+excerpt: '[Zhengyang Li](https://www.tu-braunschweig.de/en/ifn/institute/dept/sv/li), **Chenwei Liang**, [Timo Lohrenz](https://scholar.google.com/citations?user=9u1wQE0AAAAJ&hl=de), [Marvin Sach](https://www.tu-braunschweig.de/en/ifn/institute/dept/sv/sach), [Björn Möller](https://www.tu-braunschweig.de/ifn/institut/team/sv/moeller), [Tim Fingscheidt](https://www.tu-braunschweig.de/ifn/institut/abt/sv/prof-dr-ing-tim-fingscheidt)'
 date: 2023-08-20
 venue: 'Interspeech'
 paperurl: 'https://www.isca-archive.org/interspeech_2023/li23k_interspeech.pdf'
