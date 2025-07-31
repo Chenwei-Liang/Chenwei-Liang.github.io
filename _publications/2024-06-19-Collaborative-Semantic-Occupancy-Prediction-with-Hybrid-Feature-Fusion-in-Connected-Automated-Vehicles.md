@@ -3,6 +3,7 @@ title: "Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion i
 collection: publications
 category: conferences
 permalink: 
+link: "https://rruisong.github.io/publications/CoHFF/"
 excerpt: '[Rui Song](https://rruisong.github.io/), **Chenwei Liang**, [Hu Cao](https://hucaofighting.github.io/), [Zhiran Yan](https://de.linkedin.com/in/zhiran-yan-73b3b7197), [Walter Zimmer](https://www.ce.cit.tum.de/air/people/walter-zimmer-msc/), [Markus Gross](https://scholar.google.com/citations?user=id2zr6wAAAAJ&hl=de), [Andreas Festag](https://festag-net.de/), [Alois Knoll](https://www.ce.cit.tum.de/air/people/prof-dr-ing-habil-alois-knoll/)'
 date: 2024-06-19
 venue: 'CVPR'
